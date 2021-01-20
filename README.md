@@ -8,8 +8,8 @@ A  🔺angular solver for Sparse Matrices.
 set the path of gcc inside makefile
 
 * Then, inside `src` folder run:
-`
-	make
+
+	`make`
 	
-	./main L_filename b_fiename
-`
+	`./main L_filename b_fiename`
+
