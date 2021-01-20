@@ -1,5 +1,5 @@
 # *****************************************************
-CPP = # Place path of gcc here !!
+CPP = gcc # Place path of gcc here !!
 CPPFLAGS = -Wall -O3 -fopenmp
 # ****************************************************
 
