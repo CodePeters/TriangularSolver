@@ -10,5 +10,6 @@ set the path of gcc inside makefile
 * Then, inside `src` folder run:
 `
 	make
+	
 	./main L_filename b_fiename
 `
